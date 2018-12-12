@@ -1,1 +1,1 @@
-# MyFirtsAdventureGame
+# MyFirstAdventureGame
